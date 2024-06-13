@@ -1,5 +1,3 @@
-# Install the transformers library
-pip install transformers
 from transformers import BlipProcessor, BlipForConditionalGeneration
 from PIL import Image
 # Initialize the processor and model from Hugging Face
